@@ -17,3 +17,9 @@ http://arxiv.org/abs/1709.04695
 
 ## BodyNet: Volumetric Inference of 3D Human Body Shapes
 http://arxiv.org/abs/1804.04875
+
+## InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
+http://arxiv.org/abs/1606.03657
+
+## GoodfellowさんのGANのオススメ論文10選まとめ (2018/02)
+http://deeplearning.hateblo.jp/entry/2018/04/05/162438
