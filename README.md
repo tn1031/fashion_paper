@@ -21,5 +21,14 @@ http://arxiv.org/abs/1804.04875
 ## InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
 http://arxiv.org/abs/1606.03657
 
+## Progressive Growing of GANs for Improved Quality, Stability, and Variation
+https://arxiv.org/abs/1710.10196
+
 ## GoodfellowさんのGANのオススメ論文10選まとめ (2018/02)
 http://deeplearning.hateblo.jp/entry/2018/04/05/162438
+
+# excellent paper
+## DensePose: Dense Human Pose Estimation In The Wild
+https://arxiv.org/abs/1802.00434
+https://github.com/facebookresearch/DensePose
+
