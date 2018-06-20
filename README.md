@@ -15,3 +15,5 @@ http://arxiv.org/abs/1702.04680
 ## The Conditional Analogy GAN: Swapping Fashion Articles on People Images
 http://arxiv.org/abs/1709.04695
 
+## BodyNet: Volumetric Inference of 3D Human Body Shapes
+http://arxiv.org/abs/1804.04875
